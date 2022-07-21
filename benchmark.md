@@ -7,10 +7,10 @@ show_sidebar: false
 
 # Benchmarking of Deep Learning
 
-|Model Name | Accuracy (%) |
-| :--- | ---: |
-|DCNN| 87.97 |
-|MobileNet|93.83|
-|VGG16|93.66|
-|Xception|97.2|
-|Resnet34|97.7|
+|Model Name | Accuracy (%) | Code|
+| :--- | ---: | :--|
+|DCNN| 87.97 ||
+|MobileNet|93.83||
+|VGG16|93.66||
+|Xception|97.2||
+|Resnet34|97.7|[link](resnet34-with-fastai.ipynb)|
