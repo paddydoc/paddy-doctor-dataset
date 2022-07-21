@@ -1,1 +1,18 @@
 remote_theme: chrisrhymes/bulma-clean-theme
+
+# Site Settings
+lang: en
+title: Paddy Doctor
+tagline: A visual and infrared image dataset of paddy diseases and pests.
+email: paddy.inspector@gmail.com
+#description: >
+#  The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
+#baseurl: "/bulma-clean-theme"
+#url: "https://www.csrhymes.com"
+permalink: pretty
+#favicon: /path/to/favicon.png
+#gh_sponsor: chrisrhymes
+#hide_share_buttons: true
+#theme_color: '#eeeeee'
+fixed_navbar: top
+#direction: one of <ltr, rtl, auto>, default: ltr
