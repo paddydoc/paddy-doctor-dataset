@@ -13,4 +13,4 @@ show_sidebar: false
 |MobileNet|93.83||
 |VGG16|93.66||
 |Xception|97.2||
-|Resnet34|97.7|[link](resnet34-with-fastai.ipynb)|
+|Resnet34|97.7|[link](https://github.com/paddydoc/paddy-docctor-dataset/blob/main/resnet34-with-fastai.ipynb)|
